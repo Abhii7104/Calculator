@@ -18,7 +18,7 @@
 
 ```
 git clone https://github.com/Abhii7104/Calculator   
-```
+```     
 
 - Go to the directory
 - Run the index.html file
