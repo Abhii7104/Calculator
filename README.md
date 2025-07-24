@@ -17,7 +17,7 @@
 - Download or clone the repository
 
 ```
-git clone https://github.com/Abhii7104/Calculator
+git clone https://github.com/Abhii7104/Calculator   
 ```
 
 - Go to the directory
